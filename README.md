@@ -65,4 +65,5 @@
 | ------- |
 | [0175-combine-two-tables](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0176-second-highest-salary) |
+| [0182-duplicate-emails](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
