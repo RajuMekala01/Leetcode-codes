@@ -60,4 +60,8 @@
 |  |
 | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/RajuMekala01/Leetcode-codes/tree/master/2011-final-value-of-variable-after-performing-operations) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
