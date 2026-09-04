@@ -12,6 +12,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0242-valid-anagram) |
+| [0771-jewels-and-stones](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1108-defanging-an-ip-address) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -32,6 +33,7 @@
 | [0013-roman-to-integer](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0242-valid-anagram) |
+| [0771-jewels-and-stones](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0771-jewels-and-stones) |
 ## String Matching
 |  |
 | ------- |
