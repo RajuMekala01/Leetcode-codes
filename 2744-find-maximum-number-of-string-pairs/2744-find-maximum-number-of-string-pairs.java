@@ -10,12 +10,16 @@ class Solution {
         int n=words.length;
         int res=0;
         for(int i=0;i<n-1;i++){
+            if(words[i]=="-"){
+                continue;
+            }
             for(int j=i+1;j<n;j++){
                 String a=words[i];
                 String b=words[j];
                 String revb=reverse(b);
                 if(a.equals(revb)){
                     res++;
+                    revb="-";
                     break;
                 }
             }
