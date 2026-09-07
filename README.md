@@ -58,6 +58,7 @@
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/RajuMekala01/Leetcode-codes/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/RajuMekala01/Leetcode-codes/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/RajuMekala01/Leetcode-codes/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/RajuMekala01/Leetcode-codes/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Simulation
