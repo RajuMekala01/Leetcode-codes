@@ -62,6 +62,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -92,9 +93,14 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1588-sum-of-all-odd-length-subarrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
