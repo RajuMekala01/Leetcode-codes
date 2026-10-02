@@ -39,6 +39,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0771-jewels-and-stones) |
@@ -50,6 +51,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
@@ -67,6 +69,7 @@
 | [0001-two-sum](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0169-majority-element) |
 | [0918-maximum-sum-circular-subarray](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0918-maximum-sum-circular-subarray) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -108,6 +111,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0169-majority-element) |
 | [0918-maximum-sum-circular-subarray](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
 |  |
@@ -117,4 +121,12 @@
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0918-maximum-sum-circular-subarray) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
