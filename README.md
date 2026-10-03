@@ -27,6 +27,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0013-roman-to-integer) |
+| [1512-number-of-good-pairs](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
@@ -43,6 +44,7 @@
 | [0205-isomorphic-strings](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0771-jewels-and-stones) |
+| [1512-number-of-good-pairs](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1512-number-of-good-pairs) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/RajuMekala01/Leetcode-codes/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3668-restore-finishing-order](https://github.com/RajuMekala01/Leetcode-codes/tree/master/3668-restore-finishing-order) |
 ## String Matching
@@ -73,6 +75,7 @@
 | [0169-majority-element](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0169-majority-element) |
 | [0918-maximum-sum-circular-subarray](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0918-maximum-sum-circular-subarray) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1512-number-of-good-pairs](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/RajuMekala01/Leetcode-codes/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/RajuMekala01/Leetcode-codes/tree/master/2016-maximum-difference-between-increasing-elements) |
@@ -127,6 +130,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0169-majority-element) |
+| [1512-number-of-good-pairs](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1512-number-of-good-pairs) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
