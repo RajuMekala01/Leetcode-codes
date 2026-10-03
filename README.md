@@ -44,6 +44,7 @@
 | [0242-valid-anagram](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0771-jewels-and-stones) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/RajuMekala01/Leetcode-codes/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3668-restore-finishing-order](https://github.com/RajuMekala01/Leetcode-codes/tree/master/3668-restore-finishing-order) |
 ## String Matching
 |  |
 | ------- |
@@ -78,6 +79,7 @@
 | [2078-two-furthest-houses-with-different-colors](https://github.com/RajuMekala01/Leetcode-codes/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/RajuMekala01/Leetcode-codes/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/RajuMekala01/Leetcode-codes/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3668-restore-finishing-order](https://github.com/RajuMekala01/Leetcode-codes/tree/master/3668-restore-finishing-order) |
 ## Simulation
 |  |
 | ------- |
