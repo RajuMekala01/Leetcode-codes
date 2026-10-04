@@ -31,6 +31,7 @@
 | [1512-number-of-good-pairs](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1903-largest-odd-number-in-string) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/RajuMekala01/Leetcode-codes/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3945-digit-frequency-score](https://github.com/RajuMekala01/Leetcode-codes/tree/master/3945-digit-frequency-score) |
 ## Greedy
 |  |
@@ -49,6 +50,7 @@
 | [1512-number-of-good-pairs](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1512-number-of-good-pairs) |
 | [2325-decode-the-message](https://github.com/RajuMekala01/Leetcode-codes/tree/master/2325-decode-the-message) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/RajuMekala01/Leetcode-codes/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/RajuMekala01/Leetcode-codes/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/RajuMekala01/Leetcode-codes/tree/master/3668-restore-finishing-order) |
 | [3945-digit-frequency-score](https://github.com/RajuMekala01/Leetcode-codes/tree/master/3945-digit-frequency-score) |
 ## String Matching
@@ -86,6 +88,7 @@
 | [2078-two-furthest-houses-with-different-colors](https://github.com/RajuMekala01/Leetcode-codes/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/RajuMekala01/Leetcode-codes/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/RajuMekala01/Leetcode-codes/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/RajuMekala01/Leetcode-codes/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/RajuMekala01/Leetcode-codes/tree/master/3668-restore-finishing-order) |
 ## Simulation
 |  |
