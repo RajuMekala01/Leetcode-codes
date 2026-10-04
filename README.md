@@ -86,6 +86,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0169-majority-element) |
 | [0645-set-mismatch](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0645-set-mismatch) |
+| [0766-toeplitz-matrix](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0766-toeplitz-matrix) |
 | [0918-maximum-sum-circular-subarray](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0918-maximum-sum-circular-subarray) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1512-number-of-good-pairs](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1512-number-of-good-pairs) |
@@ -154,4 +155,8 @@
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0645-set-mismatch) |
+## Matrix
+|  |
+| ------- |
+| [0766-toeplitz-matrix](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0766-toeplitz-matrix) |
 <!---LeetCode Topics End-->
