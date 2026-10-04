@@ -49,6 +49,7 @@
 | [0205-isomorphic-strings](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0383-ransom-note) |
+| [0645-set-mismatch](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1512-number-of-good-pairs) |
 | [2325-decode-the-message](https://github.com/RajuMekala01/Leetcode-codes/tree/master/2325-decode-the-message) |
@@ -66,6 +67,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0242-valid-anagram) |
+| [0645-set-mismatch](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0645-set-mismatch) |
 ## Stack
 |  |
 | ------- |
@@ -83,6 +85,7 @@
 | [0053-maximum-subarray](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0169-majority-element) |
+| [0645-set-mismatch](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0645-set-mismatch) |
 | [0918-maximum-sum-circular-subarray](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0918-maximum-sum-circular-subarray) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1512-number-of-good-pairs](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1512-number-of-good-pairs) |
@@ -147,4 +150,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
