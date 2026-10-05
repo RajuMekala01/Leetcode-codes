@@ -83,6 +83,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0169-majority-element) |
 | [0645-set-mismatch](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0645-set-mismatch) |
@@ -121,6 +122,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0918-maximum-sum-circular-subarray](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0918-maximum-sum-circular-subarray) |
 ## Prefix Sum
