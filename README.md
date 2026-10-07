@@ -40,6 +40,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0561-array-partition) |
 | [1903-largest-odd-number-in-string](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1903-largest-odd-number-in-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/RajuMekala01/Leetcode-codes/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Hash Table
@@ -70,6 +71,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0242-valid-anagram) |
+| [0561-array-partition](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0645-set-mismatch) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Stack
@@ -92,6 +94,7 @@
 | [0118-pascals-triangle](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0169-majority-element) |
+| [0561-array-partition](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0645-set-mismatch) |
 | [0766-toeplitz-matrix](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0766-toeplitz-matrix) |
 | [0918-maximum-sum-circular-subarray](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0918-maximum-sum-circular-subarray) |
@@ -178,4 +181,8 @@
 | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
