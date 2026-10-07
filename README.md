@@ -21,6 +21,7 @@
 | [1108-defanging-an-ip-address](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1108-defanging-an-ip-address) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1768-merge-strings-alternately) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1903-largest-odd-number-in-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/RajuMekala01/Leetcode-codes/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/RajuMekala01/Leetcode-codes/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -53,6 +54,7 @@
 | [0645-set-mismatch](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1512-number-of-good-pairs) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2325-decode-the-message](https://github.com/RajuMekala01/Leetcode-codes/tree/master/2325-decode-the-message) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/RajuMekala01/Leetcode-codes/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/RajuMekala01/Leetcode-codes/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -152,6 +154,7 @@
 | [0169-majority-element](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0383-ransom-note) |
 | [1512-number-of-good-pairs](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1512-number-of-good-pairs) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -168,4 +171,8 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0035-search-insert-position) |
+## Sliding Window
+|  |
+| ------- |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->
