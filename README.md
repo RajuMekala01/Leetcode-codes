@@ -53,6 +53,7 @@
 | [0013-roman-to-integer](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0383-ransom-note) |
 | [0645-set-mismatch](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0645-set-mismatch) |
@@ -73,6 +74,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0242-valid-anagram) |
 | [0561-array-partition](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0645-set-mismatch) |
@@ -97,6 +99,7 @@
 | [0118-pascals-triangle](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0217-contains-duplicate) |
 | [0561-array-partition](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0645-set-mismatch) |
 | [0766-toeplitz-matrix](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0766-toeplitz-matrix) |
