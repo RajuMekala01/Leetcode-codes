@@ -1,0 +1,16 @@
+class Solution {
+    public boolean containsDuplicate(int[] nums) {
+        HashMap<Integer,Integer> hm=new HashMap<>();
+        int n=nums.length;
+        boolean ans=false;
+        for(int i=0;i<n;i++){
+            hm.put(nums[i],hm.getOrDefault(nums[i],0)+1);
+        }
+        for(int key:hm.keySet()){
+            if(hm.get(key)>1){
+                ans= true;
+            }
+        }
+        return ans;
+    }
+}
