@@ -17,6 +17,7 @@
 | [0205-isomorphic-strings](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0383-ransom-note) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1108-defanging-an-ip-address) |
@@ -56,6 +57,7 @@
 | [0217-contains-duplicate](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0383-ransom-note) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0645-set-mismatch](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0904-fruit-into-baskets) |
@@ -194,6 +196,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
