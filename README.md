@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0151-reverse-words-in-a-string) |
 | [1768-merge-strings-alternately](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1768-merge-strings-alternately) |
 ## String
@@ -76,6 +77,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0242-valid-anagram) |
@@ -99,6 +101,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0169-majority-element) |
@@ -209,4 +212,12 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0561-array-partition) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
