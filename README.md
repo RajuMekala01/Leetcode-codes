@@ -124,6 +124,7 @@
 | [2078-two-furthest-houses-with-different-colors](https://github.com/RajuMekala01/Leetcode-codes/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/RajuMekala01/Leetcode-codes/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/RajuMekala01/Leetcode-codes/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/RajuMekala01/Leetcode-codes/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/RajuMekala01/Leetcode-codes/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/RajuMekala01/Leetcode-codes/tree/master/3668-restore-finishing-order) |
 ## Simulation
@@ -224,4 +225,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0075-sort-colors) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/RajuMekala01/Leetcode-codes/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
