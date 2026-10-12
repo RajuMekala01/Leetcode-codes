@@ -105,6 +105,7 @@
 | [0118-pascals-triangle](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0217-contains-duplicate) |
 | [0561-array-partition](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0645-set-mismatch) |
@@ -154,6 +155,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1004-max-consecutive-ones-iii) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/RajuMekala01/Leetcode-codes/tree/master/2024-maximize-the-confusion-of-an-exam) |
@@ -194,6 +196,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0035-search-insert-position) |
+| [0209-minimum-size-subarray-sum](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1004-max-consecutive-ones-iii) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/RajuMekala01/Leetcode-codes/tree/master/2024-maximize-the-confusion-of-an-exam) |
@@ -201,6 +204,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1004-max-consecutive-ones-iii) |
