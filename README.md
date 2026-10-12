@@ -105,6 +105,7 @@
 | [0217-contains-duplicate](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0217-contains-duplicate) |
 | [0561-array-partition](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0645-set-mismatch) |
+| [0704-binary-search](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0704-binary-search) |
 | [0766-toeplitz-matrix](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0766-toeplitz-matrix) |
 | [0904-fruit-into-baskets](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0918-maximum-sum-circular-subarray) |
@@ -190,6 +191,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0035-search-insert-position) |
+| [0704-binary-search](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1004-max-consecutive-ones-iii) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/RajuMekala01/Leetcode-codes/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Sliding Window
