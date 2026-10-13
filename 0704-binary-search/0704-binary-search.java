@@ -5,7 +5,7 @@ class Solution {
 
        if(nums.length==0) return -1;
        while(l<=h){
-        int mid=(l+h)/2;
+        int mid=l+(h-l)/2;
         if(nums[mid]==target){
             return mid;
         }
