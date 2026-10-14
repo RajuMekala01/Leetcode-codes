@@ -42,11 +42,10 @@ static int right(int[] a,int target,int l,int r){
     public int[] searchRange(int[] nums, int target) {
 	        int l=0;
 	        int r=nums.length-1;
-            int[] res=new int[2];
+           
 	       int lm=left(nums,target,l,r);
            int rm=right(nums,target,l,r);
-	       res[0]=lm;
-	       res[1]=rm;
+	        int[] res={lm,rm};
            return res;
 		}
     }
