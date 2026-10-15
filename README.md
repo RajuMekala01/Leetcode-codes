@@ -206,6 +206,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0209-minimum-size-subarray-sum) |
+| [0278-first-bad-version](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1004-max-consecutive-ones-iii) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/RajuMekala01/Leetcode-codes/tree/master/2024-maximize-the-confusion-of-an-exam) |
@@ -240,4 +241,8 @@
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/RajuMekala01/Leetcode-codes/tree/master/2778-sum-of-squares-of-special-elements) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
