@@ -34,6 +34,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/RajuMekala01/Leetcode-codes/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2325-decode-the-message](https://github.com/RajuMekala01/Leetcode-codes/tree/master/2325-decode-the-message) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/RajuMekala01/Leetcode-codes/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3174-clear-digits](https://github.com/RajuMekala01/Leetcode-codes/tree/master/3174-clear-digits) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/RajuMekala01/Leetcode-codes/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Math
 |  |
@@ -95,6 +96,7 @@
 | [0020-valid-parentheses](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0682-baseball-game) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [3174-clear-digits](https://github.com/RajuMekala01/Leetcode-codes/tree/master/3174-clear-digits) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -145,6 +147,7 @@
 | [0682-baseball-game](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0682-baseball-game) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/RajuMekala01/Leetcode-codes/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/RajuMekala01/Leetcode-codes/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3174-clear-digits](https://github.com/RajuMekala01/Leetcode-codes/tree/master/3174-clear-digits) |
 ## Database
 |  |
 | ------- |
