@@ -94,6 +94,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0225-implement-stack-using-queues) |
 | [0682-baseball-game](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0682-baseball-game) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3174-clear-digits](https://github.com/RajuMekala01/Leetcode-codes/tree/master/3174-clear-digits) |
@@ -186,6 +187,7 @@
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0225-implement-stack-using-queues) |
 | [0918-maximum-sum-circular-subarray](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
@@ -256,4 +258,8 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0278-first-bad-version) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
