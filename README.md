@@ -140,6 +140,7 @@
 | [2078-two-furthest-houses-with-different-colors](https://github.com/RajuMekala01/Leetcode-codes/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/RajuMekala01/Leetcode-codes/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RajuMekala01/Leetcode-codes/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/RajuMekala01/Leetcode-codes/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/RajuMekala01/Leetcode-codes/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/RajuMekala01/Leetcode-codes/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2974-minimum-number-game](https://github.com/RajuMekala01/Leetcode-codes/tree/master/2974-minimum-number-game) |
@@ -150,6 +151,7 @@
 | ------- |
 | [0682-baseball-game](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0682-baseball-game) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/RajuMekala01/Leetcode-codes/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/RajuMekala01/Leetcode-codes/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/RajuMekala01/Leetcode-codes/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2974-minimum-number-game](https://github.com/RajuMekala01/Leetcode-codes/tree/master/2974-minimum-number-game) |
 | [3174-clear-digits](https://github.com/RajuMekala01/Leetcode-codes/tree/master/3174-clear-digits) |
@@ -271,5 +273,6 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/RajuMekala01/Leetcode-codes/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2974-minimum-number-game](https://github.com/RajuMekala01/Leetcode-codes/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
