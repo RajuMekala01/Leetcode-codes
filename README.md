@@ -4,6 +4,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0088-merge-sorted-array) |
@@ -49,6 +50,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0011-container-with-most-water) |
 | [0561-array-partition](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0561-array-partition) |
 | [1903-largest-odd-number-in-string](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1903-largest-odd-number-in-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/RajuMekala01/Leetcode-codes/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -111,6 +113,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0035-search-insert-position) |
