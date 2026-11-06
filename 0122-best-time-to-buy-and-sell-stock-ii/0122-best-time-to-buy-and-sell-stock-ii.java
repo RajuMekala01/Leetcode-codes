@@ -1,8 +1,6 @@
 class Solution {
     public int maxProfit(int[] prices) {
         int profit=0;
-        int maxp=0;
-        int minp=prices[0];
         int n=prices.length;
         for(int i=0;i<n-1;i++){
             int cp=-(prices[i]-prices[i+1]);
