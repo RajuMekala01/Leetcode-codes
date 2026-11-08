@@ -61,6 +61,7 @@
 | [0001-two-sum](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0013-roman-to-integer) |
+| [0128-longest-consecutive-sequence](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0205-isomorphic-strings) |
@@ -124,6 +125,7 @@
 | [0118-pascals-triangle](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0217-contains-duplicate) |
@@ -291,4 +293,8 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0141-linked-list-cycle) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
