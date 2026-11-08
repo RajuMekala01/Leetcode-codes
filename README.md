@@ -27,6 +27,7 @@
 | [0771-jewels-and-stones](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1108-defanging-an-ip-address) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1768-merge-strings-alternately) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -53,6 +54,7 @@
 | [0011-container-with-most-water](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0561-array-partition](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0561-array-partition) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1903-largest-odd-number-in-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/RajuMekala01/Leetcode-codes/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Hash Table
@@ -217,6 +219,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0383-ransom-note) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1512-number-of-good-pairs](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1512-number-of-good-pairs) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RajuMekala01/Leetcode-codes/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
