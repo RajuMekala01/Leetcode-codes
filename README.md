@@ -12,6 +12,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0344-reverse-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1768-merge-strings-alternately) |
 ## String
 |  |
@@ -98,6 +99,7 @@
 | [0242-valid-anagram](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0242-valid-anagram) |
 | [0561-array-partition](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0645-set-mismatch) |
+| [0977-squares-of-a-sorted-array](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1051-height-checker) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2974-minimum-number-game](https://github.com/RajuMekala01/Leetcode-codes/tree/master/2974-minimum-number-game) |
@@ -144,6 +146,7 @@
 | [0766-toeplitz-matrix](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0766-toeplitz-matrix) |
 | [0904-fruit-into-baskets](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0918-maximum-sum-circular-subarray) |
+| [0977-squares-of-a-sorted-array](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1004-max-consecutive-ones-iii) |
 | [1051-height-checker](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1051-height-checker) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
