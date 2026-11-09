@@ -10,6 +10,7 @@
 | [0088-merge-sorted-array](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0344-reverse-string) |
 | [1768-merge-strings-alternately](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1768-merge-strings-alternately) |
 ## String
@@ -130,6 +131,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0128-longest-consecutive-sequence) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0217-contains-duplicate) |
@@ -242,6 +244,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0035-search-insert-position) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0704-binary-search) |
