@@ -76,6 +76,7 @@
 | [0242-valid-anagram](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0904-fruit-into-baskets) |
@@ -143,6 +144,7 @@
 | [0217-contains-duplicate](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0283-move-zeroes) |
+| [0560-subarray-sum-equals-k](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0645-set-mismatch) |
@@ -206,6 +208,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1004-max-consecutive-ones-iii) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/RajuMekala01/Leetcode-codes/tree/master/2024-maximize-the-confusion-of-an-exam) |
