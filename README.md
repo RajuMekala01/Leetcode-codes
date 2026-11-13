@@ -130,6 +130,7 @@
 | [0011-container-with-most-water](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0036-valid-sudoku) |
@@ -265,6 +266,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0153-find-minimum-in-rotated-sorted-array) |
