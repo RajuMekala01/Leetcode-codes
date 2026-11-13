@@ -164,6 +164,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1051-height-checker](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1051-height-checker) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -276,6 +277,7 @@
 | [0278-first-bad-version](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/RajuMekala01/Leetcode-codes/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RajuMekala01/Leetcode-codes/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sliding Window
