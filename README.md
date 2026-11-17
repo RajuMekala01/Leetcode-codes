@@ -119,6 +119,7 @@
 | [0225-implement-stack-using-queues](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3174-clear-digits](https://github.com/RajuMekala01/Leetcode-codes/tree/master/3174-clear-digits) |
@@ -163,6 +164,7 @@
 | [0682-baseball-game](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0739-daily-temperatures) |
 | [0766-toeplitz-matrix](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0766-toeplitz-matrix) |
 | [0904-fruit-into-baskets](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0918-maximum-sum-circular-subarray) |
@@ -357,4 +359,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0287-find-the-duplicate-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
