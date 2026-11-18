@@ -341,6 +341,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -363,4 +364,8 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0739-daily-temperatures) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
