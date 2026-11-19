@@ -81,6 +81,7 @@
 | [0242-valid-anagram](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0645-set-mismatch) |
@@ -120,6 +121,7 @@
 | [0020-valid-parentheses](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -159,6 +161,7 @@
 | [0238-product-of-array-except-self](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0287-find-the-duplicate-number) |
+| [0496-next-greater-element-i](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0561-array-partition) |
@@ -366,6 +369,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0739-daily-temperatures) |
 ## Recursion
 |  |
