@@ -52,6 +52,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0231-power-of-two) |
 | [1512-number-of-good-pairs](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1903-largest-odd-number-in-string) |
@@ -274,6 +275,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0645-set-mismatch) |
 ## Matrix
@@ -377,4 +379,5 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
