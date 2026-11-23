@@ -262,6 +262,7 @@
 | [0225-implement-stack-using-queues](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0232-implement-queue-using-stacks) |
 | [0918-maximum-sum-circular-subarray](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0918-maximum-sum-circular-subarray) |
+| [0933-number-of-recent-calls](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0933-number-of-recent-calls) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -349,6 +350,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0232-implement-queue-using-stacks) |
+| [0933-number-of-recent-calls](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0933-number-of-recent-calls) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -390,4 +392,8 @@
 | [0206-reverse-linked-list](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0234-palindrome-linked-list) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
