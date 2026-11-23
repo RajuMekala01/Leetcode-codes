@@ -55,6 +55,7 @@
 | [0013-roman-to-integer](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0231-power-of-two) |
+| [1352-product-of-the-last-k-numbers](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1352-product-of-the-last-k-numbers) |
 | [1512-number-of-good-pairs](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1903-largest-odd-number-in-string) |
@@ -189,6 +190,7 @@
 | [1051-height-checker](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1051-height-checker) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1352-product-of-the-last-k-numbers](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1352-product-of-the-last-k-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1572-matrix-diagonal-sum) |
@@ -246,6 +248,7 @@
 | [0724-find-pivot-index](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1004-max-consecutive-ones-iii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1352-product-of-the-last-k-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/RajuMekala01/Leetcode-codes/tree/master/2024-maximize-the-confusion-of-an-exam) |
@@ -351,6 +354,7 @@
 | [0225-implement-stack-using-queues](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0232-implement-queue-using-stacks) |
 | [0933-number-of-recent-calls](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0933-number-of-recent-calls) |
+| [1352-product-of-the-last-k-numbers](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1352-product-of-the-last-k-numbers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -396,4 +400,5 @@
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0933-number-of-recent-calls) |
+| [1352-product-of-the-last-k-numbers](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
