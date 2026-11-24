@@ -168,6 +168,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0496-next-greater-element-i) |
@@ -264,11 +265,13 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0918-maximum-sum-circular-subarray) |
 | [0933-number-of-recent-calls](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0933-number-of-recent-calls) |
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0918-maximum-sum-circular-subarray) |
 ## Counting
 |  |
@@ -318,6 +321,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0904-fruit-into-baskets) |
@@ -359,6 +363,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0239-sliding-window-maximum) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/RajuMekala01/Leetcode-codes/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2974-minimum-number-game](https://github.com/RajuMekala01/Leetcode-codes/tree/master/2974-minimum-number-game) |
 ## Linked List
@@ -401,4 +406,8 @@
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0933-number-of-recent-calls) |
 | [1352-product-of-the-last-k-numbers](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1352-product-of-the-last-k-numbers) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/RajuMekala01/Leetcode-codes/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
