@@ -65,6 +65,7 @@
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/RajuMekala01/Leetcode-codes/tree/master/1903-largest-odd-number-in-string) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/RajuMekala01/Leetcode-codes/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3360-stone-removal-game](https://github.com/RajuMekala01/Leetcode-codes/tree/master/3360-stone-removal-game) |
 | [3945-digit-frequency-score](https://github.com/RajuMekala01/Leetcode-codes/tree/master/3945-digit-frequency-score) |
 ## Greedy
 |  |
@@ -223,6 +224,7 @@
 | [2744-find-maximum-number-of-string-pairs](https://github.com/RajuMekala01/Leetcode-codes/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2974-minimum-number-game](https://github.com/RajuMekala01/Leetcode-codes/tree/master/2974-minimum-number-game) |
 | [3174-clear-digits](https://github.com/RajuMekala01/Leetcode-codes/tree/master/3174-clear-digits) |
+| [3360-stone-removal-game](https://github.com/RajuMekala01/Leetcode-codes/tree/master/3360-stone-removal-game) |
 ## Database
 |  |
 | ------- |
